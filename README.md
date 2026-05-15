@@ -20,10 +20,10 @@ La empresa consta de **2 plantas** y un total de aproximadamente **20-25 equipos
 ## Estructura del repositorio
  
 ```
-📦 montaje-mantenimiento-equipos
- ┣ 📄 README.md
- ┣ 📄 Documentacion.docx         → Documento principal con todo el proyecto
- ┣ 📊 Presentacion.pptx          → Presentación del proyecto
+ montaje-mantenimiento-equipos
+ ┣ README.md
+ ┣ Documentacion.docx         → Documento principal con todo el proyecto
+ ┣ Presentacion.pptx          → Presentación del proyecto
 ```
  
 ---
